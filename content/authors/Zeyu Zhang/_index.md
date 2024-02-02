@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Dr. An Wang
+title: Dr. Zeyu Zhang
 
 # Full Name (for SEO)
-first_name: An
-last_name: Wang
+first_name: Zeyu
+last_name: Zhang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
   - name: The Hong Kong Polytechnic University
-    url: 'https://www.polyu.edu.hk/cee/people/academic-staff/dr-an-wang/'
+    url: 'https://www.polyu.edu.hk/cee/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research aims to address urban SUSTAINABILITY challenges using pervasive SENSING and data-driven methods, which empowers the SOCIETY for a just and equitable carbon-neutrality transition.
@@ -28,13 +28,13 @@ interests:
 education:
   courses:
     - course: PhD in Transpotation Engineering
-      institution: The University of Toronto
+      institution: Beijing Jiaotong University
       year: 2020
     - course: MASc in Transpotation Engineering
-      institution: McGill University
+      institution: Beijing Jiaotong University
       year: 2016
     - course: BEng in Logistics Engineering
-      institution: Chang'an University
+      institution: Beijing Jiaotong University
       year: 2014
 
 # Social/Academic Networking
