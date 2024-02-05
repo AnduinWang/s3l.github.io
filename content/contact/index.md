@@ -9,7 +9,7 @@ sections:
     content:
       title: Opportunities
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+       S3L is actively hiring talented, self-motivated researchers, including graduate research assistants, Ph.D. students, postdocs, and visiting scholars. The candidate should have research or practical experience in transportation decarbonization, environmental modeling, sensing technologies, big data or deep learning fields. Most recently, we are looking for those who are interested in Internet-of-Things firmware development and AI-enabled urban environmental studies.
       email: an.wang@polyu.edu.hk
 #      phone: 888 888 88 88
       address:
