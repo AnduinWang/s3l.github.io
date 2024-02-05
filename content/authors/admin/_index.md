@@ -71,3 +71,4 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
+Dr. An Wang started the Sustainability, Sensing, and Society Lab (S3L) at the Department Civil and Environmental Engineering, PolyU in 2023. Previously, he worked with Prof. Carlo Ratti at the [Senseable City Lab](https://senseable.mit.edu/), Massachusetts Institute of Technology as a postdoctoral researcher, focusing on pervasive urban environmental sensing and hyperlocal environmental modeling. An obtained his Ph.D. in sustainable transportation under the supervision of Prof. Marianne Hatzopoulou at the University of Toronto in 2020, with a thesis titled _Extending the Boundaries of Emission and Dispersion Modeling with Uncertainty Analysis and Data-Driven Models_. His current research explores pathways to address urban SUSTAINABILITY challenges using pervasive SENSING and data-driven methods, which empowers the SOCIETY for a just and equitable carbon-neutrality transition. 
