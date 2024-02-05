@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. An Wang
+title: Dr. An Wang 王安
 
 # Full Name (for SEO)
 first_name: An
@@ -51,9 +51,9 @@ social:
 #  - icon: researchgate
 #    icon_pack: fab
 #    link: https://www.researchgate.net/profile/An-Wang
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/%E5%AE%89-%E7%8E%8B-99a951114/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/%E5%AE%89-%E7%8E%8B-99a951114/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
