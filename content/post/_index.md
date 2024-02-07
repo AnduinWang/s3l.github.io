@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: The Latest about S3L
 
 # Listing view
 view: compact
