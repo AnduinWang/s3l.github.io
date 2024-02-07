@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Empowering Sustainable Transition
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Sustainability, Sensing, and Society Lab** (pronounced as 'S-Cube-L') explores prominent urban sustainability challenges with latest sensing and data-driven technologies for the bigger good of the society.
   
   - block: collection
     content:
-      title: Latest News
+      title: The Latest about S3L
       subtitle:
       text:
       count: 5
